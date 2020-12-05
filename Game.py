@@ -27,17 +27,17 @@ def resource_path(relative_path):
 
 This script is very long, so I've included a table of contents so it will be easier for people to navigate:
 
-1. Common variables                                         - Line 42
-2. Importing foreign assets                                 - Line 58
-3. Classes used in the game                                 - Line 78
-4. Functions related to MySQL connectivity                  - Line 290
-5. General utility functions                                - Line 523
-5. Functions related to controlling the snakes              - Line 571
-6. Functions that are used in the flow of the game          - Line 658
-7. Functions related to singleplayer modes of the game      - Line 818
-8. Functions related to multiplayer modes of the game       - Line 1003
-9. Introduction functions of the game                       - Line 1211
-10. This is where the game starts                           - Line 1287
+1. Common variables                                         - Line 46
+2. Importing foreign assets                                 - Line 62
+3. Classes used in the game                                 - Line 82
+4. Functions related to MySQL connectivity                  - Line 294
+5. General utility functions                                - Line 527
+5. Functions related to controlling the snakes              - Line 575
+6. Functions that are used in the flow of the game          - Line 662
+7. Functions related to singleplayer modes of the game      - Line 822
+8. Functions related to multiplayer modes of the game       - Line 1007
+9. Introduction functions of the game                       - Line 1215
+10. This is where the game starts                           - Line 1291
 
 '''
 
