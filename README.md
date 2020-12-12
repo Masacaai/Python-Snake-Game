@@ -13,3 +13,13 @@ Clone this repo to your local directory and launch the main Game.py file.
 
 This project was originally coded in Windows 10 so there might be a few hiccups to work out regarding directory paths and whatnot if deployed on another OS.
 
+![Title Screen](https://github.com/Masacaai/Python-Snake-Game/blob/main/Screenshots/image(7).png)
+![Title Screen](https://github.com/Masacaai/Python-Snake-Game/blob/main/Screenshots/image(8).png)
+![Title Screen](https://github.com/Masacaai/Python-Snake-Game/blob/main/Screenshots/image(9).png)
+![Title Screen](https://github.com/Masacaai/Python-Snake-Game/blob/main/Screenshots/image(10).png)
+![Title Screen](https://github.com/Masacaai/Python-Snake-Game/blob/main/Screenshots/image(11).png)
+![Title Screen](https://github.com/Masacaai/Python-Snake-Game/blob/main/Screenshots/image(12).png)
+![Title Screen](https://github.com/Masacaai/Python-Snake-Game/blob/main/Screenshots/image(13).png)
+![Title Screen](https://github.com/Masacaai/Python-Snake-Game/blob/main/Screenshots/image(14).png)
+![Title Screen](https://github.com/Masacaai/Python-Snake-Game/blob/main/Screenshots/image(15).png)
+
