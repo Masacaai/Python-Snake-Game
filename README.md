@@ -7,6 +7,9 @@ Versions used:
   3. MySQL 8.0.22
   4. mysql-connector-python 8.0.22 (Python Package)
   
-You must have MySQL installed and set up for this to work. 
+You must have MySQL installed and set up for this to work.
+
 Clone this repo to your local directory and launch the main Game.py file.
-This project was originally coded in Windows 10. So there might be a few hiccups to work out regarding directory paths and whatnot if deployed on another OS.
+
+This project was originally coded in Windows 10 so there might be a few hiccups to work out regarding directory paths and whatnot if deployed on another OS.
+
