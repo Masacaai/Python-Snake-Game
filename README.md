@@ -11,7 +11,7 @@ You must have MySQL installed and set up for this to work.
 
 Clone this repo to your local directory and launch the main Game.py file.
 
-This project was originally coded in Windows 10 so there might be a few hiccups to work out regarding directory paths and whatnot if deployed on another OS. Also, pardon the messy spaghetti-code, I wrote this as a highschooler ignorant of proper OOP and code distribution practices.
+This project was originally coded in Windows 10 so there might be a few hiccups to work out regarding directory paths and whatnot if deployed on another OS. Also, pardon the messy spaghetti-code, I wrote this as a highschooler ignorant of proper OOP and code distribution practices. If you're interested in learning about my process of creating the game, check out: https://aaqel.xyz/python-the-game/
 
 ![](https://github.com/Masacaai/Python-Snake-Game/blob/main/Screenshots/image(7).png)
 
