@@ -1,5 +1,5 @@
 # Python-Snake-Game
-Used to be a stupid pun I made. Now it's a stupid game I made for my senior year final project.
+Used to be a stupid pun I made. Now it's a stupid game I made for my high school senior year final project.
 
 Versions used:
   1. Python 3.8.6
